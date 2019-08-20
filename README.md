@@ -2,7 +2,7 @@
 Useful links which can help in study
 
 ### Rules
-If you want to add some usefull links or books you can contact me @passgressive or just fork the repository and make pull request
+If you want to add some usefull links or papers you can contact me @passgressive or just fork the repository and make pull request
 
 ### Important info
 
