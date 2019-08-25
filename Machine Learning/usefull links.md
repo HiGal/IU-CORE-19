@@ -13,10 +13,11 @@ A mathematical look into where Bias and Variance come from
 ## Deep Learning
 
 ### Computer Vision
-*Will be soon*
+[Deep Learning for Content Creation Tutorial](https://nvlabs.github.io/dl-for-content-creation/)
+
 
 ### Natural Language Processing
-*Will be soon*
+[Deep Learning Illustrated: Building Natural Language Processing Models](https://blog.dominodatalab.com/deep-learning-illustrated-building-natural-language-processing-models/)
 
 ## Advanced Topics
 
